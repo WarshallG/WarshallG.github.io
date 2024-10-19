@@ -9,5 +9,8 @@ redirect_from:
 
 I am a student from Nanjing University, majoring in Artificial Intelligence.
 
-##Research Interset##
+
+Research Interset
+=======
 My research interests include artificial intelligence, evolutionary computation and machine learning. Now I am working on:
+Bayesain Optimization

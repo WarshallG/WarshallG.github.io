@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a student from Nanjing University, majoring in Artificial Intelligence.
+I am a student from Nanjing University, majoring in Artificial Intelligence. I'm a student professed by Chao Qian.
 
 
 Research Interset

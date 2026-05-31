@@ -14,8 +14,8 @@ Research Interset
 =======
 My research interests include artificial intelligence, evolutionary computation and machine learning. Now I am working on:
 
--> Bayesain Optimization
+-> High-dimensional Bayesian Optimization
 
--> Quality Diversity
+-> AI for Science
 
 If you have any questions, please feel free to contact me via 221300034@smail.nju.edu.cn at any time.
